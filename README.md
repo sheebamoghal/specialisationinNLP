@@ -8,3 +8,7 @@ This Specialization is for students of machine learning or artificial intelligen
 This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.
 
 
+## Course 1 : Natural Language Processing with Classification and Vector Spaces
+ Week 1: Learnt data preprocessing in NLP for Sentiment Analysis using the Twitter data. Used Logistic Regression to predict whether a tweet is positive or negative
+ 
+ Week 2: 
